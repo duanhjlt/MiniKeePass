@@ -16,6 +16,7 @@
  */
 
 #import "DDXMLDocument.h"
+#import <libxml/parser.h>
 
 @interface DDXMLDocument (MKPAdditions)
 
